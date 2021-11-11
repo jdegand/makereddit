@@ -20,9 +20,9 @@ To run, git clone and add a Mongo connection string from Mongo Atlas.
 
 ![](./makereddit-login.png)
 ![](./makereddit-rooms.png)
+![](./makereddit-new-post.png)
 ![](./makereddit-posts.png)
 ![](./makereddit-post-order.png)
-![](./makereddit-new-post.png)
 
 ### Built With
 
